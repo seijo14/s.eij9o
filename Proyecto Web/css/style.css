@@ -1,0 +1,167 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Libre Baskerville', serif;
+}
+.cabeza{
+    width: 50%;
+}
+#row{
+    margin-left: 143px;
+}
+
+.ButTittle{
+    color: white;
+    text-decoration: none;
+    
+    position: absolute;
+    left:850px;
+    top: 50px;
+    
+}
+
+.ButTittle a{
+    text-decoration: none;
+    margin-left: 500px;
+    color: white;
+    font-size: 3em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.Title{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 60px;
+    font-size: 7em;
+    width: 700px;
+}
+
+.Intro{
+    font-size: 2.5em;
+    margin-left: 40px;
+    width: 1565px;
+}
+
+#ContGeneral{
+    width: 100%;
+    margin: 0;
+}
+
+#col1{
+   padding: 0;
+   margin: 0;
+}
+
+.imgs{
+    margin-top: 100px;
+    
+    width: 600px;
+}
+
+#colGen{
+    padding: 0;
+    width: 569px;
+    height: 1000px;
+    margin-left: 200px;
+}
+
+.image, .image1{
+    position: relative;
+    z-index: 2;
+}
+
+.PieImg1 h1{
+    margin-top: 20px;
+    font-size: 2em;
+}
+
+.PieImg h1{
+    font-size: 2em;
+    position: relative;
+    z-index: 2;
+    margin-top: 20px;
+}
+
+.PiePagina{
+
+    margin-top: 100px;
+    padding-top: 10px;
+    height: 50px;
+    width: 100%;
+}
+
+.But2{
+    width: 1238px;
+    margin-left: 700px;
+    margin-bottom: 50px;
+    float: right;
+}
+.PiePagina a{
+    color: white;
+    font-size: 3em;
+    text-decoration: none;
+    margin-right:187px ;
+}
+
+.redRect{
+    width: 300px;
+    height: 80px;
+    z-index: 1;
+    position: relative;
+    bottom: 850px;
+    left: 851px;
+    background-color: rgb(192, 2, 2);
+}
+
+.redRect1{
+    width: 300px;
+    height: 80px;
+    background-color: rgb(192, 2, 2);
+    z-index: 1;
+    position: relative;
+    left:1616px;
+    bottom: 450px;
+}
+
+.redRect2{
+    width: 100px;
+    height: 400px;
+    background-color: rgb(192, 2, 2);
+    z-index: 1;
+    position: relative;
+    left:2100px;
+    bottom: 1500px; 
+}
+
+.redRect3{
+    width: 300px;
+    height: 80px;
+    background-color: rgb(192, 2, 2);
+    z-index: 1;
+    position: relative;
+    right:1000px;
+    bottom: 400px;
+}
+
+.redRect4{
+    width: 300px;
+    height: 80px;
+    z-index: 1;
+    position: relative;
+    bottom: 930px;
+    right: 200px;
+    background-color: rgb(192, 2, 2);
+}
+
+.redRect5{
+    width: 100px;
+    height: 300px;
+    background-color: rgb(192, 2, 2);
+    z-index: 1;
+    position: relative;
+    right:1536px;
+    bottom: 250px; 
+}
+
