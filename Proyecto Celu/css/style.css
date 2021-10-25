@@ -1,0 +1,133 @@
+body{
+    background-color: black;
+    color: white;
+    width: 1000px;
+    padding: 0px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#GeneralCont{
+    padding: 0;
+    border-right: 2px solid white;
+}
+
+
+
+.Cabeza h1{
+    font-size: 6em;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#colGen{
+    width: 702px;
+    height: 965px;
+    margin-top: 100px;
+}
+
+.imgs{
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.ButTitle{
+    margin-left: 241px;
+}
+
+.ButTitle a{
+    text-decoration: white;
+    color: white;
+    font-size: 3.5em;
+    margin-left: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.PieImg h1, .PieImg1 h1{
+    margin-top: 30px;
+    margin-left: 200px;
+    font-size: 2em;
+}
+
+
+.PiePagina{
+    margin-top: 50px;
+    
+}
+
+.PiePagina a{
+    text-decoration: none;
+    color:white;
+    font-size: 2.5em;
+    margin-left: 130px;
+}
+
+.redRect{
+    width: 210px;
+    height: 100px;
+    z-index: 1;
+    position: relative;
+    bottom: 746px;
+    left: 0px;
+    background-color: rgb(192, 2, 2);
+}
+
+.redRect1{
+    width: 110px;
+    height: 279px;
+    background-color: rgb(192, 2, 2);
+    z-index: 1;
+    position: relative;
+    left: 670px;
+    bottom: 1141px;
+}
+
+.redRect2{
+    width: 231px;
+    height: 100px;
+    background-color: rgb(192, 2, 2);
+    z-index: 1;
+    position: relative;
+    left: 768px;
+    bottom: 237px;
+}
+
+.redRect3{
+    width: 300px;
+    height: 80px;
+    background-color: rgb(192, 2, 2);
+    z-index: 1;
+    position: relative;
+    right:100px;
+    bottom: 360px;
+}
+
+.redRect4{
+    width: 100px;
+    height: 247px;
+    z-index: 1;
+    position: relative;
+    bottom: 76px;
+    left: 432px;
+    background-color: rgb(192, 2, 2);
+}
+
+.redRect5{
+    width: 100px;
+    height: 226px;
+    background-color: rgb(192, 2, 2);
+    z-index: 1;
+    position: relative;
+    left:528px;
+    bottom: 1176px; 
+}
+
+.redRect6{
+    width: 300px;
+    height: 80px;
+    background-color: rgb(192, 2, 2);
+    z-index: 1;
+    position: relative;
+    right:100px;
+    bottom: 990px;
+}
